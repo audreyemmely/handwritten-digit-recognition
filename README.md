@@ -8,7 +8,7 @@ Clone this repository to your local computer
 git clone https://github.com/audreyemmely/handwritten-digit-recognition.git
 ```
 
-Point yor localhost to the cloned root directory
+Point your localhost to the cloned root directory
 
 Browse to http://localhost/index.html
 
